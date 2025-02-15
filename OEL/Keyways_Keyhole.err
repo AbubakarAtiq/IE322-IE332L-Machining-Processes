@@ -1,0 +1,28 @@
+
+Started importing sheet: Model
+
+
+Finished importing sheet: Model
+
+Started importing sheet: GDT-keyhole
+
+Dimension's value differs from actual measurement:
+Type: Diametrical , Handle: 4DB, Displayed Value: 20.000000, Actual Value: 0.057998
+Dimension's value differs from actual measurement:
+Type: Diametrical , Handle: 500, Displayed Value: 40.000000, Actual Value: 0.115996
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 558, Displayed Value: 5.000000, Actual Value: 0.014499
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 591, Displayed Value: 13.000000, Actual Value: 0.037699
+
+Finished importing sheet: GDT-keyhole
+
+Started importing sheet: GDT-keyway
+
+
+Finished importing sheet: GDT-keyway
+
+Started importing sheet: Layout1
+
+
+Finished importing sheet: Layout1
